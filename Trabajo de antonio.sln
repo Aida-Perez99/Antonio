@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodos de ordenamiento y busqueda", "metodos de ordenamiento y busqueda\metodos de ordenamiento y busqueda.csproj", "{CEB8CF9A-8F3C-415D-8351-C5224EE31301}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEB8CF9A-8F3C-415D-8351-C5224EE31301}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB8CF9A-8F3C-415D-8351-C5224EE31301}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB8CF9A-8F3C-415D-8351-C5224EE31301}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB8CF9A-8F3C-415D-8351-C5224EE31301}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1E98394-E715-4E3A-B7D2-C226F065F101}
+	EndGlobalSection
+EndGlobal
